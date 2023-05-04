@@ -1,2 +1,2 @@
 # tks4
-4Key Macro Pad
+teikei san 4Key Macro Pad
