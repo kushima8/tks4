@@ -55,7 +55,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 |キースイッチ(Cherry MX互換)|4個|
 |キーキャップ(Cherry MX互換)|4個|
 |Pro Micro|1個|※|
-|コンスルーピンヘッダ(3.5mm 12PIN)|2個|https://talpkeyboard.net/items/6229e8c130344b271f290c3c / https://shop.dailycraft.jp/products/conthrough_12_35 など|
+|コンスルーピンヘッダ(3.5mm 12PIN)|2個|https://talpkeyboard.net/items/6229e8c130344b271f290c3c / https://shop.dailycraft.jp/products/conthrough_12_35 / https://www.switch-science.com/products/7448 など|
 
 ※動作確認しているPro Microは以下の通りになります。  
 　下記以外のPro Microを使用する場合は動作しないことがあります。  
