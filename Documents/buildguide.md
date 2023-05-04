@@ -18,7 +18,7 @@ Boothや遊舎工房など自分が販売または委託している以外での
 
 ファームウェアに[qmk_firmware](https://github.com/qmk/qmk_firmware)を採用しています。<br>
 QMKにtks4のコードはまだマージされていませんのでこの[ブランチ](https://github.com/kushima8/qmk_firmware/tree/tks4)を使用してください。<br>
-動作確認の為の[HEXファイル](　)を用意しています。<br>
+動作確認の為の[HEXファイル](https://github.com/kushima8/tks4/tree/main/HEX)を用意しています。<br>
 
 キット作成前にPro Microの書き込み環境の構築を行ってください。<br>
 ファームウェアの書き込み環境の構築については下記のサリチル酸さんのサイトを参考にしてください。<br>
@@ -96,8 +96,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * [コンスルー - Self-Made Keyboards in Japan - ](https://scrapbox.io/self-made-kbds-ja/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC)<br>
   ![006](https://user-images.githubusercontent.com/58157342/89108152-21b31980-d471-11ea-9df6-11b106120852.JPG)
 * 3.ファームウェアの書き込み
-  * [tks4_test.hex](https://github.com/kushima8/Reex67/tree/main/HEX)を指定してファームウェアを書き込んでください。
-  * [REMAP](　)でもファームウェアを書き込めるようにしております。
+  * [tks4_default.hex](https://github.com/kushima8/tks4/tree/main/HEX)を指定してファームウェアを書き込んでください。
 * 4.LEDチップのはんだ付け(オプション)
   * 高い温度ではんだ付けを行うとLED破損の可能性がありますので、約270℃に設定してはんだ付けをするようにしてください。
   * 基板裏面のL字のシルクのマークの位置にLEDの足が欠けている箇所が来るように設置し、はんだ付けを行ってください。
@@ -122,6 +121,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   ![032](https://user-images.githubusercontent.com/58157342/235360303-a8471405-7e8c-49c1-8d3b-a353d31c4dd3.JPG)
 * 8.Pro Microの取り付け
   * Pro Microを取り付け、PCと接続しREMAPなどを用いてキースイッチの入力の確認を行ってください。
+  * REMAPには未登録ですが、[tks4_default.hex](https://github.com/kushima8/tks4/tree/main/HEX)を書き込んだProMicro を接続し[JSON](https://github.com/kushima8/tks4/tree/main/VIA)を読み込むと対応できます。
 * 9.ボトムプレートの取り付け。
   * スペーサーとボトムプレートのネジ穴の位置を合わせ、M2 4mmネジで固定してください。
 * 10.キーキャップの取り付け
