@@ -121,6 +121,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   ![032](https://user-images.githubusercontent.com/58157342/235360303-a8471405-7e8c-49c1-8d3b-a353d31c4dd3.JPG)
 * 8.Pro Microの取り付け
   * Pro Microを取り付け、PCと接続しREMAPなどを用いてキースイッチの入力の確認を行ってください。
+  * REMAPには未登録ですが、[tks4_default.hex](https://github.com/kushima8/tks4/tree/main/HEX)を書き込んだProMicro を接続し[JSON](https://github.com/kushima8/tks4/tree/main/VIA)を読み込むと対応できます。
 * 9.ボトムプレートの取り付け。
   * スペーサーとボトムプレートのネジ穴の位置を合わせ、M2 4mmネジで固定してください。
 * 10.キーキャップの取り付け
