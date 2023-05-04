@@ -18,7 +18,7 @@ Boothや遊舎工房など自分が販売または委託している以外での
 
 ファームウェアに[qmk_firmware](https://github.com/qmk/qmk_firmware)を採用しています。<br>
 QMKにtks4のコードはまだマージされていませんのでこの[ブランチ](https://github.com/kushima8/qmk_firmware/tree/tks4)を使用してください。<br>
-動作確認の為の[HEXファイル](　)を用意しています。<br>
+動作確認の為の[HEXファイル](https://github.com/kushima8/tks4/tree/main/HEX)を用意しています。<br>
 
 キット作成前にPro Microの書き込み環境の構築を行ってください。<br>
 ファームウェアの書き込み環境の構築については下記のサリチル酸さんのサイトを参考にしてください。<br>
